@@ -1,0 +1,119 @@
+split,original_index,feature,original_value
+train,1102,Air temperature [K],999.9
+train,1191,Air temperature [K],999.9
+train,5031,Air temperature [K],999.9
+train,3690,Air temperature [K],999.9
+train,9304,Air temperature [K],-50.0
+train,551,Air temperature [K],-50.0
+train,8435,Air temperature [K],-50.0
+train,9646,Air temperature [K],-50.0
+train,4757,Air temperature [K],-50.0
+train,832,Air temperature [K],-50.0
+train,9581,Air temperature [K],999.9
+train,7054,Air temperature [K],-50.0
+train,1593,Air temperature [K],999.9
+train,3816,Air temperature [K],999.9
+train,8924,Air temperature [K],999.9
+train,642,Air temperature [K],-50.0
+train,5061,Air temperature [K],-50.0
+train,8323,Air temperature [K],-50.0
+train,1696,Air temperature [K],999.9
+train,9090,Air temperature [K],999.9
+train,3761,Air temperature [K],999.9
+train,4468,Air temperature [K],-50.0
+train,4369,Air temperature [K],-50.0
+train,8910,Air temperature [K],999.9
+test,2118,Air temperature [K],999.9
+test,1938,Air temperature [K],-50.0
+test,4584,Air temperature [K],999.9
+test,8014,Air temperature [K],999.9
+test,5988,Air temperature [K],-50.0
+test,6612,Air temperature [K],-50.0
+train,6150,Rotational speed [rpm],15000.0
+train,8292,Rotational speed [rpm],15000.0
+train,6828,Rotational speed [rpm],15000.0
+train,599,Rotational speed [rpm],-500.0
+train,465,Rotational speed [rpm],-500.0
+train,6462,Rotational speed [rpm],15000.0
+train,3270,Rotational speed [rpm],-500.0
+train,1645,Rotational speed [rpm],-500.0
+train,622,Rotational speed [rpm],15000.0
+train,5960,Rotational speed [rpm],-500.0
+train,8502,Rotational speed [rpm],15000.0
+train,9359,Rotational speed [rpm],15000.0
+train,5985,Rotational speed [rpm],-500.0
+train,6903,Rotational speed [rpm],15000.0
+train,6453,Rotational speed [rpm],15000.0
+train,2204,Rotational speed [rpm],-500.0
+train,1640,Rotational speed [rpm],15000.0
+train,5355,Rotational speed [rpm],-500.0
+train,9094,Rotational speed [rpm],-500.0
+train,1770,Rotational speed [rpm],-500.0
+train,3361,Rotational speed [rpm],-500.0
+train,4475,Rotational speed [rpm],-500.0
+test,9207,Rotational speed [rpm],15000.0
+test,7711,Rotational speed [rpm],15000.0
+test,65,Rotational speed [rpm],15000.0
+test,133,Rotational speed [rpm],-500.0
+test,5549,Rotational speed [rpm],-500.0
+test,2097,Rotational speed [rpm],15000.0
+test,9338,Rotational speed [rpm],-500.0
+train,9932,Torque [Nm],500.0
+train,2163,Torque [Nm],-150.0
+train,9674,Torque [Nm],-150.0
+train,9867,Torque [Nm],500.0
+train,9833,Torque [Nm],-150.0
+train,8747,Torque [Nm],-150.0
+train,2300,Torque [Nm],-150.0
+train,9271,Torque [Nm],500.0
+train,6544,Torque [Nm],500.0
+train,6361,Torque [Nm],500.0
+train,6477,Torque [Nm],-150.0
+train,8367,Torque [Nm],500.0
+train,4380,Torque [Nm],500.0
+train,6082,Torque [Nm],-150.0
+train,1167,Torque [Nm],-150.0
+train,937,Torque [Nm],500.0
+train,3440,Torque [Nm],500.0
+train,5158,Torque [Nm],500.0
+train,3872,Torque [Nm],500.0
+train,604,Torque [Nm],-150.0
+train,6093,Torque [Nm],-150.0
+train,1375,Torque [Nm],-150.0
+train,303,Torque [Nm],-150.0
+train,5215,Torque [Nm],-150.0
+test,4871,Torque [Nm],500.0
+test,5706,Torque [Nm],500.0
+test,6531,Torque [Nm],-150.0
+test,2666,Torque [Nm],-150.0
+test,1984,Torque [Nm],500.0
+train,2365,Tool wear [min],9999.0
+train,6882,Tool wear [min],9999.0
+train,8291,Tool wear [min],9999.0
+train,8174,Tool wear [min],9999.0
+train,3298,Tool wear [min],9999.0
+train,2085,Tool wear [min],9999.0
+train,4194,Tool wear [min],9999.0
+train,602,Tool wear [min],9999.0
+train,8927,Tool wear [min],9999.0
+train,3529,Tool wear [min],9999.0
+train,7122,Tool wear [min],9999.0
+train,3040,Tool wear [min],9999.0
+train,7109,Tool wear [min],9999.0
+train,4186,Tool wear [min],9999.0
+train,2432,Tool wear [min],9999.0
+train,9607,Tool wear [min],9999.0
+train,6696,Tool wear [min],9999.0
+train,8137,Tool wear [min],9999.0
+train,3078,Tool wear [min],9999.0
+train,9218,Tool wear [min],9999.0
+train,3287,Tool wear [min],9999.0
+train,4602,Tool wear [min],9999.0
+train,6916,Tool wear [min],9999.0
+train,7072,Tool wear [min],9999.0
+test,3127,Tool wear [min],9999.0
+test,9331,Tool wear [min],9999.0
+test,5505,Tool wear [min],9999.0
+test,1728,Tool wear [min],9999.0
+test,4374,Tool wear [min],9999.0
+test,1370,Tool wear [min],9999.0
